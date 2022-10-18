@@ -1,0 +1,6 @@
+https://algorithmsinsight.wordpress.com/graph-theory-2/a-star-in-general/implementing-a-star-to-solve-n-puzzle/
+https://algorithmsinsight.wordpress.com/graph-theory-2/a-star-in-general/
+https://sandipanweb.wordpress.com/2017/03/16/using-uninformed-informed-search-algorithms-to-solve-8-puzzle-n-puzzle/?frame-nonce=9e97a821bc
+https://medium.com/@nicholas.w.swift/easy-a-star-pathfinding-7e6689c7f7b2
+http://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html
+https://www.geeksforgeeks.org/check-instance-15-puzzle-solvable/
